@@ -1,5 +1,5 @@
 ### Hi there 👋
-*I m Sagun, Frontend Developer based on Sydney, Australia.*
+*I m Sagun, Frontend Developer based in Sydney, Australia.*
 
 <br>
 
